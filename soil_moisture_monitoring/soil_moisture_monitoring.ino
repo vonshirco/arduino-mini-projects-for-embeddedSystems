@@ -49,7 +49,7 @@ void loop() {
     digitalWrite(LED, LOW);
     
     }else{ //if resistance is not high or its low (in wet soil)
-      Serial.println("Soil is Now W,,,,,et!");
+      Serial.println("Soil is Now Wet!");
       digitalWrite(buzzPin,LOW); //buzzer stays off
       digitalWrite(LED, LOW); //LED does not light
       }
