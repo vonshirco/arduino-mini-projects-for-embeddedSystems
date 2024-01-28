@@ -32,10 +32,6 @@ This repository contains a collection of Arduino mini-projects for various embed
 26. [**secret_knock_with_servoLock**](./secret_knock_with_servoLock) - 🔒🔊 Implements a secret knock system with a servo lock.
 27. [**soil_moisture_monitoring**](./soil_moisture_monitoring) - 💧🔍 Monitors soil moisture.
 28. [**ultrasonic_distance_measurement**](./ultrasonic_distance_measurement) - 📏🔍 Measures distance using an ultrasonic sensor.
-29. [**voltmeter_using_lcd**](./voltmeter_using_lcd) - 🔋🔍 Displays voltage readings on an LCD.
-30. [**water_flow_meter**](./water_flow_meter) - 💧🔍 Measures water flow.
-31. [**water_level_indicator**](./water_level_indicator) - 💧🔍 Indicates water levels.
-32. [**wifi_password_cracker**](./wifi_password_cracker) - 📶🔓 Cracks WiFi passwords.
 
 ## Contributions
 
@@ -46,3 +42,28 @@ Contributions to this repository are welcome. If you have a project that you wou
 2. **Clone the Repository:** Clone your forked repository to your local machine using the following command:
    ```bash
    git clone https://github.com/your-username/arduino-mini-projects-for-embeddedSystems.git
+
+3. **Create a New Branch:** Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/new-project
+
+4. **Add Your Project:** Add your project files to the appropriate folder within the repository.
+
+5. **Commit Your Changes:** Commit your changes with a descriptive commit message:
+   ```bash
+   git commit -m "Add new project: ProjectName"
+
+6. **Push to Your Fork:** Push your changes to your forked repository:
+   ```bash
+   git push origin feature/new-project
+
+7. **Create a Pull Request:** Go to the GitHub page for your forked repository and create a new pull request. Provide a clear title and description for your pull request, explaining the purpose of your changes.
+
+8. **Review and Merge:** Once your pull request is submitted, it will be reviewed by the repository maintainers. If everything looks good, your changes will be merged into the main repository.
+
+Thank you for contributing to our project collection!
+
+Feel free to customize the content further or add any additional details you find relevant.
+
+
+
